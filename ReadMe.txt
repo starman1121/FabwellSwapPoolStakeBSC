@@ -1,1 +1,1 @@
-This is uniswap project on BSC
+This is uniswap project on BSC.
